@@ -81,7 +81,7 @@
 </head>
 <body>
 
-![zdjecie1](https://github.com/user-attachments/assets/0e1a787f-75dc-4751-bcdf-913c413f18f7)
+<img src="https://github.com/user-attachments/assets/0e1a787f-75dc-4751-bcdf-913c413f18f7" alt="zdjecie1" />
 
 
   <h1>Najpiękniejsza na świecie</h1>
