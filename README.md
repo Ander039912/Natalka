@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html lang="pl">
 <head>
   <meta charset="UTF-8">
@@ -82,7 +81,9 @@
 </head>
 <body>
 
-  <header>
+  <header>![zdjecie2](https://github.com/user-attachments/assets/76aa6dcc-85e5-4504-9267-5cfef89b3453)
+![zdjecie1](https://github.com/user-attachments/assets/fcc094f7-d984-4a5b-99e9-b39c61edac73)
+
     <h1>Najpiękniejsza na świecie</h1>
     <p>Bo piękno nie tylko się widzi – piękno się czuje.</p>
   </header>
@@ -100,8 +101,6 @@
   <footer>
     &copy; 2025 — Stworzona z sercem 💖
   </footer>
-![zdjecie2](https://github.com/user-attachments/assets/eb6e32fc-691d-490f-a212-290075c97744)
-![zdjecie1](https://github.com/user-attachments/assets/fa70b222-f942-42fa-aa5f-f1539376152f)
 
 </body>
 </html>
