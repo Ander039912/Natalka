@@ -86,7 +86,7 @@
     <p>Bo piękno nie tylko się widzi – piękno się czuje.</p>
   </header>
 <img src="https://github.com/user-attachments/assets/0e1a787f-75dc-4751-bcdf-913c413f18f7" alt="zdjecie1" />
-<img src="images/natka.jpg" alt="Najpiękniejsza osoba" width="400">
+<img src="images/roze.png" alt="Z różami" width="120">
 
 
   <section>
