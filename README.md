@@ -80,20 +80,15 @@
   </style>
 </head>
 <body>
-
-
-  <h1>Najpiękniejsza na świecie</h1>
+ <h1>Najpiękniejsza na świecie</h1>
     <p>Bo piękno nie tylko się widzi – piękno się czuje.</p>
   </header>
-<img src="https://github.com/user-attachments/assets/0e1a787f-75dc-4751-bcdf-913c413f18f7" alt="zdjecie1" />
-<img src="https://github.com/user-attachments/assets/3ea2d238-ef9e-4a57-8dd3-ccc5adc71a60"alt="zdjecie2" />
-
   <section>
     <h2>Magia spojrzenia</h2>
     <p>Zachwyca nie tylko urodą, ale i duszą 🌸</p>
     <div class="gallery">
-      <img src="zdjecie1.png" alt="Najpiękniejsza osoba">
-      <img src="zdjecie2.png" alt="Z różami">
+<img src="https://github.com/user-attachments/assets/0e1a787f-75dc-4751-bcdf-913c413f18f7" alt="zdjecie1" />
+<img src="https://github.com/user-attachments/assets/3ea2d238-ef9e-4a57-8dd3-ccc5adc71a60"alt="zdjecie2" />
     </div>
     <p class="quote">„Kiedy patrzę na Ciebie, świat staje się piękniejszy.”</p>
   </section>
