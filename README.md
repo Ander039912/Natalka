@@ -68,5 +68,37 @@
   </section>
 
   <footer>
-    &copy; 2025 — Stworzona z sercem 💖
+    
   </footer>
+  <div class="timeline">
+
+  <div class="timeline-item left">
+    <div class="timeline-content">
+      <h3>Pierwsza rozmowa</h3>
+      <p>Pamiętam każdy szczegół – Twoje słowa, Twój uśmiech, Twoje spojrzenie...</p>
+    </div>
+  </div>
+
+  <div class="timeline-item right">
+    <div class="timeline-content">
+      <h3>Pierwszy spacer</h3>
+      <p>To wtedy poczułem, że jesteś kimś wyjątkowym, niepowtarzalnym.</p>
+    </div>
+  </div>
+
+  <div class="timeline-item left">
+    <div class="timeline-content">
+      <h3>Pierwszy pocałunek</h3>
+      <p>Moment, który zatrzymał czas... byłeś tylko Ty i ja.</p>
+    </div>
+  </div>
+
+  <div class="timeline-item right">
+    <div class="timeline-content">
+      <h3>Nasze wspólne chwile</h3>
+      <p>Plany, rozmowy, śmiech i wszystko to, co tworzymy razem ❤️</p>
+    </div>
+  </div>
+
+</div>
+&copy; 2025 — Stworzona z sercem 💖
