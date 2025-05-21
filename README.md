@@ -86,6 +86,7 @@
     <p>Bo piękno nie tylko się widzi – piękno się czuje.</p>
   </header>
 <img src="https://github.com/user-attachments/assets/0e1a787f-75dc-4751-bcdf-913c413f18f7" alt="zdjecie1" />
+![zdjecie2](https://github.com/user-attachments/assets/c7ab169a-0bcb-4f04-8a3f-8b185d4cd4da)
 
   <section>
     <h2>Magia spojrzenia</h2>
