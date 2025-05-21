@@ -54,8 +54,10 @@
       Gdy jesteś obok – świat jaśnieje,<br>
       a każda chwila nabiera życia.
     </div>
-div class="message">
-      Za każdym razem kiedy Cię widzę,<br>
+
+
+
+   Za każdym razem kiedy Cię widzę,<br>
       przypominam sobie kiedy pierwszy raz złapałem Cię za rękę,<br>
       kiedy pierwszy raz Cię pocałowałem,<br>
       nawet naszą pierwszą rozmowę.<br><br>
