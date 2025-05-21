@@ -54,6 +54,15 @@
       Gdy jesteś obok – świat jaśnieje,<br>
       a każda chwila nabiera życia.
     </div>
+div class="message">
+      Za każdym razem kiedy Cię widzę,<br>
+      przypominam sobie kiedy pierwszy raz złapałem Cię za rękę,<br>
+      kiedy pierwszy raz Cię pocałowałem,<br>
+      nawet naszą pierwszą rozmowę.<br><br>
+      Jesteś dla mnie najważniejsza – nawet nie wiesz jak bardzo.<br>
+      Chciałbym Cię znowu zobaczyć...<br>
+      Jesteś najcudowniejsza i nie chcę Cię stracić, mimo wszystko.
+    </div>
   </section>
 
   <footer>
