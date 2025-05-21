@@ -81,10 +81,11 @@
 </head>
 <body>
 
-  <header>![zdjecie2](https://github.com/user-attachments/assets/76aa6dcc-85e5-4504-9267-5cfef89b3453)
-![zdjecie1](https://github.com/user-attachments/assets/fcc094f7-d984-4a5b-99e9-b39c61edac73)
+ ![zdjecie2](https://github.com/user-attachments/assets/324f7fc3-8fba-453e-a2e3-01d237301727)
+![zdjecie1](https://github.com/user-attachments/assets/98d17f5c-a2bd-49e4-9e7e-2e84c03af93c)
 
-    <h1>Najpiękniejsza na świecie</h1>
+
+  <h1>Najpiękniejsza na świecie</h1>
     <p>Bo piękno nie tylko się widzi – piękno się czuje.</p>
   </header>
 
