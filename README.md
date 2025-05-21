@@ -48,11 +48,14 @@
    = </div>
     <p class="quote">„Kiedy patrzę na Ciebie, świat staje się piękniejszy.”</p>
   </section>
+<div class="poem">
+      Czasem wystarczy jedno spojrzenie,<br>
+      by serce zadrżało w zachwycie.<br>
+      Gdy jesteś obok – świat jaśnieje,<br>
+      a każda chwila nabiera życia.
+    </div>
+  </section>
 
   <footer>
     &copy; 2025 — Stworzona z sercem 💖
   </footer>
-
-</body>
-</html>
-
