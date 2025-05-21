@@ -42,7 +42,7 @@
     <p>Zachwyca nie tylko urodą, ale i duszą 🌸</p>
     <div class="gallery">
 <img src="https://github.com/user-attachments/assets/0e1a787f-75dc-4751-bcdf-913c413f18f7" alt="zdjecie1" />
-<img src="https://github.com/user-attachments/assets/3ea2d238-ef9e-4a57-8dd3-ccc5adc71a60"alt="zdjecie2" />
+<img src="zdjecie2.png" alt="Natalka z różami" class="photo" />
     </div>
     <p class="quote">„Kiedy patrzę na Ciebie, świat staje się piękniejszy.”</p>
   </section>
