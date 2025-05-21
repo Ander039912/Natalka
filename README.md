@@ -12,66 +12,55 @@
       background-color: #fff0f5;
       color: #333;
     }
-
-  header {
+ header {
       background: linear-gradient(rgba(255,192,203,0.6), rgba(255,255,255,0.8));
       padding: 60px 20px;
       text-align: center;
     }
-
-  header h1 {
+ header h1 {
       font-family: 'Great Vibes', cursive;
       font-size: 48px;
       color: #8b0000;
       margin-bottom: 10px;
     }
-
-   header p {
+header p {
       font-size: 18px;
       color: #555;
     }
-
-  section {
+section {
       text-align: center;
       padding: 40px 20px;
     }
-
-  section h2 {
+ section h2 {
       font-size: 32px;
       color: #8b0000;
       margin-bottom: 10px;
     }
-
-   section p {
+ section p {
       color: #444;
       margin-bottom: 20px;
     }
-
-   .gallery {
+ .gallery {
       display: flex;
       justify-content: center;
       gap: 20px;
       flex-wrap: wrap;
     }
-
-   .gallery img {
+.gallery img {
       max-width: 300px;
       border-radius: 20px;
       box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
       transition: transform 0.3s ease;
     }
-
-   .gallery img:hover {
+ .gallery img:hover {
       transform: scale(1.05);
     }
-
-   .quote {
+ .quote {
       font-style: italic;
       color: #b22222;
       margin-top: 30px;
     }
-
-   footer {
+ footer {
       text-align: center;
       padding: 20px;
       background-color: #ffe4e1;
