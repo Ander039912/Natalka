@@ -81,8 +81,7 @@
 </head>
 <body>
 
- ![zdjecie2](https://github.com/user-attachments/assets/324f7fc3-8fba-453e-a2e3-01d237301727)
-![zdjecie1](https://github.com/user-attachments/assets/98d17f5c-a2bd-49e4-9e7e-2e84c03af93c)
+![zdjecie1](https://github.com/user-attachments/assets/0e1a787f-75dc-4751-bcdf-913c413f18f7)
 
 
   <h1>Najpiękniejsza na świecie</h1>
