@@ -102,3 +102,26 @@
 
 </div>
 &copy; 2025 — Stworzona z sercem 💖
+
+<script>
+  setInterval(() => {
+    const heart = document.createElement("div");
+    heart.innerText = "❤️";
+    heart.style.position = "fixed";
+    heart.style.left = Math.random() * 100 + "vw";
+    heart.style.top = "-2vh";
+    heart.style.fontSize = "24px";
+    heart.style.animation = "fall 3s linear forwards";
+    document.body.appendChild(heart);
+    setTimeout(() => heart.remove(), 3000);
+  }, 300);
+
+</script>
+<style>
+  @keyframes fall {
+    to {
+      transform: translateY(100vh);
+      opacity: 0;
+    }
+  }
+</style>
