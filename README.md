@@ -1,77 +1,42 @@
-
+<!DOCTYPE html>
 <html lang="pl">
 <head>
   <meta charset="UTF-8">
-  <title>Najpiękniejsza na świecie</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Open+Sans&display=swap" rel="stylesheet">
+  <title>Natalka</title>
+  <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
   <style>
     body {
-      margin: 0;
-      font-family: 'Open Sans', sans-serif;
-      background-color: #fff0f5;
-      color: #333;
-    }
- header {
-      background: linear-gradient(rgba(255,192,203,0.6), rgba(255,255,255,0.8));
-      padding: 60px 20px;
+      background: linear-gradient(to bottom, #ffe6ec, #ffffff);
+      font-family: Arial, sans-serif;
       text-align: center;
+      margin: 0;
+      padding: 0;
     }
- header h1 {
-      font-family: 'Great Vibes', cursive;
+
+   h2.title {
+      font-family: 'Dancing Script', cursive;
       font-size: 48px;
-      color: #8b0000;
+      color: darkred;
+      margin-top: 60px;
       margin-bottom: 10px;
     }
-header p {
+
+   p.subtitle {
       font-size: 18px;
       color: #555;
-    }
-section {
-      text-align: center;
-      padding: 40px 20px;
-    }
- section h2 {
-      font-size: 32px;
-      color: #8b0000;
-      margin-bottom: 10px;
-    }
- section p {
-      color: #444;
-      margin-bottom: 20px;
-    }
- .gallery {
-      display: flex;
-      justify-content: center;
-      gap: 20px;
-      flex-wrap: wrap;
-    }
-.gallery img {
-      max-width: 300px;
-      border-radius: 20px;
-      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
-      transition: transform 0.3s ease;
-    }
- .gallery img:hover {
-      transform: scale(1.05);
-    }
- .quote {
-      font-style: italic;
-      color: #b22222;
-      margin-top: 30px;
-    }
- footer {
-      text-align: center;
-      padding: 20px;
-      background-color: #ffe4e1;
-      color: #666;
+      margin: 0 auto 40px auto;
+      max-width: 600px;
     }
   </style>
 </head>
 <body>
- <h1>Najpiękniejsza na świecie</h1>
-    <p>Bo piękno nie tylko się widzi – piękno się czuje.</p>
-  </header>
+
+  <h2 class="title">Najpiękniejsza na świecie</h2>
+  <p class="subtitle">Bo piękno nie tylko się widzi – piękno się czuje.</p>
+
+</body>
+</html>
+
   <section>
     <h2>Magia spojrzenia</h2>
     <p>Zachwyca nie tylko urodą, ale i duszą 🌸</p>
