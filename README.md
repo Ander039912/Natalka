@@ -125,3 +125,19 @@
     }
   }
 </style>
+
+<section class="letter">
+  <h2>List do Ciebie</h2>
+  <p>
+    Natalia...<br><br>
+    Czasem słowa to za mało, by wyrazić, co naprawdę czuję, gdy myślę o Tobie. Ale mimo to próbuję, bo zasługujesz na każde dobre słowo i każde najczulsze uczucie.
+    <br><br>
+    Pamiętam dzień, w którym Cię poznałem – wszystko się wtedy zmieniło. Twoje spojrzenie, głos, uśmiech – to wszystko zbudowało mój świat od nowa. Jesteś kimś, kto wnosi światło tam, gdzie było ciemno.
+    <br><br>
+    Nie wiem, co przyniesie przyszłość, ale wiem jedno – chcę, żebyś była jej częścią.
+    <br><br>
+    Dziękuję, że jesteś. Dziękuję, że mogę czuć coś tak pięknego.
+    <br><br>
+    urs boy ❤️
+  </p>
+</section>
