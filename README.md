@@ -81,12 +81,11 @@
 </head>
 <body>
 
-<img src="https://github.com/user-attachments/assets/0e1a787f-75dc-4751-bcdf-913c413f18f7" alt="zdjecie1" />
-
 
   <h1>Najpiękniejsza na świecie</h1>
     <p>Bo piękno nie tylko się widzi – piękno się czuje.</p>
   </header>
+<img src="https://github.com/user-attachments/assets/0e1a787f-75dc-4751-bcdf-913c413f18f7" alt="zdjecie1" />
 
   <section>
     <h2>Magia spojrzenia</h2>
