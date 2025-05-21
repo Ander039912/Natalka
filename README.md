@@ -100,6 +100,8 @@
   <footer>
     &copy; 2025 — Stworzona z sercem 💖
   </footer>
+![zdjecie2](https://github.com/user-attachments/assets/eb6e32fc-691d-490f-a212-290075c97744)
+![zdjecie1](https://github.com/user-attachments/assets/fa70b222-f942-42fa-aa5f-f1539376152f)
 
 </body>
 </html>
